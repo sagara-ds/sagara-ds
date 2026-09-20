@@ -1,14 +1,14 @@
 ## Hi! I'm sagara-ds
 
 ```javascript
-function SoftwareEngineering() {
-  const Introduction = {
-    Name = "Sagara Dwi Septiansyah",
-    Wannabe = "Fullstack Developer"
-    TechStack = ["Javascript", "Next.js", "Tailwind CSS", "Node.js"],
-     
+function softwareEngineering() {
+  const introduction = {
+    name: "Sagara Dwi Septiansyah",
+    wannabe: "Fullstack Developer",
+    techStack: ["JavaScript", "Next.js", "Tailwind CSS", "Node.js"]
   };
-	return SoftwareEngineering;
+
+  return introduction;
 }
 ```
 
